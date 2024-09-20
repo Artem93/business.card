@@ -4,17 +4,20 @@
 Я работаю в QA с 2016 года. Имею опыт в web/ mobile/ backend тестировании.
 </br>Изучаю автоматизацию на java и kotlin.
 
+</br></br>
 
 ### Статистика:
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artem93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artem93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artem93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artem93&locale=ru&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+</br>
 
 ### Стек технологий:
 
-<p align="left">
+<table>
+<tr> <th> <p>
 <img width="6%" title="Rest Assured" src="image/RestAssured.svg">
 <img width="6%" title="Selenide" src="image/Selenide.svg">
 <img width="6%" title="Selenoid" src="image/Selenoid.svg">
@@ -28,10 +31,13 @@
 <img width="5%" title="Allure TestOps" src="image/Allure_TO.svg">
 <img width="6%" title="GitHub" src="image/GitHub.svg">
 <img width="6%" title="Jenkins" src="image/Jenkins.svg">
-</p>
+</p> </th> </tr> 
+</table>
+
 
 ### Проекты:
 
+</br>
 
 ### Контакты:
 +   <a href="https://linkedin.com/in/artem-lepkin-4306841b2">linkedin </a>
