@@ -36,7 +36,7 @@
 
 
 ### Проекты:
- <a href="https://github.com/Artem93/qa.guru.graduate">HeadHunter automatization </a> - проект с автотестами на Mobile UI, Web UI и Api сервис HeadHunter
+ <a href="https://github.com/Artem93/qa.guru.graduate">HeadHunter automatization</a> - проект с автотестами на Mobile UI, Web UI и Api сервис HeadHunter
 
 
 </br>
